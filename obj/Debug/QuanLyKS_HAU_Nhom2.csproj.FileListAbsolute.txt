@@ -1,0 +1,15 @@
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\bin\Debug\QuanLyKS_HAU_Nhom2.exe.config
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\bin\Debug\QuanLyKS_HAU_Nhom2.exe
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\bin\Debug\QuanLyKS_HAU_Nhom2.pdb
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.csproj.AssemblyReference.cache
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.csproj.SuggestedBindingRedirects.cache
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.Form1.resources
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.Main.resources
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.Phong.resources
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.Properties.Resources.resources
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.csproj.GenerateResource.cache
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.csproj.CoreCompileInputs.cache
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.exe
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.pdb
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.HoaDon.resources
+D:\Programming language\C#\BTLCs\QuanLyKS_HAU_Nhom2\obj\Debug\QuanLyKS_HAU_Nhom2.DichVu.resources
